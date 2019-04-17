@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/LINEDeveloperCommunity/line-pay-csharp/_apis/build/status/line-pay-csharp-CI?branchName=master)](https://dev.azure.com/LINEDeveloperCommunity/line-pay-csharp/_build/latest?definitionId=2&branchName=master)
+
 # LINE Login SDK for C#
 
 This repository contains LINE Login SDK for C# 
